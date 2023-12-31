@@ -1,1 +1,1 @@
-# streamlit_smile
+# 笑顔認識アプリ
